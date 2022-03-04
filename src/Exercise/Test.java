@@ -13,5 +13,6 @@ public class Test {
         for (int c:acWing.twoSum(net,6)) {
             System.out.print(c+" ");
         }
+        System.out.println("happy");
     }
 }
